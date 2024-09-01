@@ -3,11 +3,14 @@
 ## Developer guide (from scratch)
 1. Linux based environment (Not compulsory). Such as Ubuntu on WSL2
 2. NodeJS. NodeJS is the JavaScript framework that contains the packages. 
+
 npm - Node Package Manager. 
+
 nvm - Node version manager. Decides the version of node to run. 
+
 npx - This is a Command Line Tool that comes with npm (Node Package Manager). `npx` allows us to run binaries from npm packages without installing them globally. 
 
-Do not install node via apt-get. The node version here is outdated. Expo and react-native needs nodeJS >= v8.6. Default is node v8.5.1. 
+Do not install node via apt-get. The node version here is outdated. Expo and react-native needs nodeJS >= v8.6. Default apt-get node version is v8.5.1. 
 
 Install commands: 
 ```
