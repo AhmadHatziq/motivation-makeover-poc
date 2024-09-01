@@ -27,7 +27,7 @@ npm -v # v10.8.2
 npx -v # v10.8.2
 ```
 
-Can follow this [guide](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04).
+Can follow this [guide](https://monovm.com/blog/install-nvm-on-ubuntu/)
 
 3. Initialize **new** react-native files with: 
 ```
